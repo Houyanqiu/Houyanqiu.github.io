@@ -11,7 +11,7 @@ This page is a little snapshot of my creative world, which I’ve been diving in
 ## Crocheting
 
 <div class="third">
-<img src="/images/crocheting1.JPG">
+<img src="/images/swimming5.JPG">
 <img src="/images/crocheting2.JPG">
 <img src="/images/crocheting3.JPG">
 </div>
