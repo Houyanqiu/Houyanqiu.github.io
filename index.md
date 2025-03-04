@@ -6,13 +6,11 @@ layout: page
 
 <img src="https://houyanqiu.github.io//houyanqiu.jpg" class="floatpic">
 
-# 
-
 Here is **Yanqiu Hou (Hanni, 侯彦秋)**.<br>
 
 I am an undergraduate student at Tongji Medical College, Huazhong University of Science and Technology, majoring in Public Health Administration (Medicine). Starting in Fall 2025, I will pursue a Master’s degree at the School of Public Health, Fudan University. I am passionate about improving healthcare access and outcomes, especially in ethnic minority regions of China. My research experience includes chronic disease management and health policy, advised by faculty in the School of Medicine and Health Management. I have also participated in impactful social practice projects aimed at rural healthcare development. Recently, I was honored to receive the **National College English Reading Competition Grand Prize** and publish as the first author in an SCI journal.
 
-If you are interested in my work or potential collaborations, feel free to reach out to me at - houyanqiu2003 [at] 163.com.
+If you are interested in my work or potential collaborations, feel free to reach out to me at - houyanqiu2003@163.com.
 
 ---
 
@@ -55,30 +53,6 @@ My current research focuses on practical solutions to improve healthcare deliver
 
 ---
 
-## Research Experience
-
-1. **First Author | SCI Paper**  
-   *Enhancing Healthcare Utilization and Health Outcomes...*  
-   
-   - Period: Sep 2023 - May 2024  
-   - Submitted to: *Patient Education and Counselling* (SCI Q2, IF=3.5)  
-   - Focus: Analyzed healthcare-seeking behavior and outcomes in 780 rural chronic disease patients.
-
-2. **Second Author | SCI Paper**  
-   *Impact of Family Doctor Contract Services...*  
-   
-   - Period: Sep 2023 - Apr 2024  
-   - Submitted to: *Risk Management and Healthcare Policy* (SCI Q2, IF=3.5)  
-   - Focus: Evaluated the effect of family doctor services on avoidable hospitalizations for hypertensive patients.
-
-3. **Core Member | Provincial Innovation Project**  
-   *Analysis of Family Doctor Service Utilization Among Rural Hypertensive Patients in Midwest China*  
-   
-   - Period: Apr 2022 - Apr 2024  
-   - Outcome: Successfully completed and recognized at the provincial level.
-
----
-
 ## Skills
 
 - **Bilingual Writing**: Proficient in English and Chinese, with experience in SCI journal submissions  
@@ -95,7 +69,3 @@ For my graduate studies, I aim to:
 2. Expand research on chronic disease management and health policy;  
 3. Contribute to projects that enhance healthcare equity in rural and minority regions;  
 4. Engage in international academic exchanges to broaden my perspective.
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&ref_src=twsrc%5Etfw">#AAAI</a> & <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>— Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

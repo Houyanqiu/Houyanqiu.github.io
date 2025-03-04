@@ -13,10 +13,11 @@ owner:
   cv: https://houyanqiu.github.io/file/CV_YanqiuHou.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: Houyanqiu
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
+  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  # bilibili: 594030035
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   zhihu: https://www.zhihu.com/people/chlire
+  rednote: https://www.xiaohongshu.com/user/profile/5e4eb700000000000100b0fe?xsec_token=YB4X5qix-LyAsI0DJEx1r2j7dGuDuQBlR0QoY81xLOaWY%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=60c23b8a0000000001008cb3&apptime=1741061729&share_id=2fd850d0dd314c4782844cfa0e817123&share_channel=copy_link
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -44,8 +45,8 @@ links:
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing

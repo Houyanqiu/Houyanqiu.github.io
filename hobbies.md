@@ -6,47 +6,35 @@ title: Hobbies
 
 # Hobbies
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or hiking together, feel free to contact me!
+This page is a little snapshot of my creative world, which I’ve been diving into more deeply over the past year. I’ve fallen in love with crocheting and pixel bead art, two hobbies that let my hands dance and my mind wander. If you’re around and fancy crafting together—or just want to chat about yarn and beads—drop me a line at houyanqiu2003@163.com!
 
-## Swimming & Surfing
-
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
-
-## Workshop
+## Crocheting
 
 <div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
+<img src="/images/crocheting1.JPG">
+<img src="/images/crocheting2.JPG">
+<img src="/images/crocheting3.JPG">
 </div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+<br>There’s something magical about turning a simple strand of yarn into a cozy scarf, a quirky hat, or even a tiny plush toy. Crocheting feels like weaving little stories with every stitch—each loop a moment of calm, each pattern a burst of joy. I adore the rhythm of the hook gliding through the yarn, transforming chaos into order. Recently, I’ve been experimenting with colorful blankets inspired by the vibrant landscapes of my hometown in Sichuan’s Tibetan region.
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+## Pixel Bead Art
+
+<div class="third">
+<img src="/images/beadart1.JPG">
+<img src="/images/beadart2.JPG">
+<img src="/images/beadart3.JPG">
+</div>
+<br>Pixel bead art is my tiny universe of color and precision. With every bead I place, it’s like painting with dots—building miniature masterpieces that sparkle under the light. Whether it’s a cute animal, a intricate mandala, or a scene from a favorite memory, I lose myself in the click-clack of beads lining up perfectly. It’s oddly satisfying, like solving a puzzle that ends in a burst of beauty. My latest project? A pixelated portrait of a mountain sunset—tedious, but oh-so-rewarding!
 
 ## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+I used to spend hours hiking through the hills near my hometown, sketching landscapes, and binge-watching documentaries about public health innovations. Lately, though, my hooks and beads have taken over my free time.
 
-## My Cat
+## My Dream Craft Corner
 
-She is my love. Her name is Qbao (Q宝).
+One day, I’d love to have a cozy little craft nook filled with yarn in every shade and beads of every size—a space where I can create, dream, and maybe even teach others the joy of crafting.
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/craftcorner.JPG">
 </div>
 <br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
