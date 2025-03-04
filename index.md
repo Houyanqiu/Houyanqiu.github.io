@@ -6,7 +6,9 @@ layout: page
 
 <img src="https://houyanqiu.github.io//houyanqiu.jpg" class="floatpic">
 
-# Yanqiu Hou (Hanni, 侯彦秋)
+# 
+
+Here is **Yanqiu Hou (Hanni, 侯彦秋)**.<br>
 
 I am an undergraduate student at Tongji Medical College, Huazhong University of Science and Technology, majoring in Public Health Administration (Medicine). Starting in Fall 2025, I will pursue a Master’s degree at the School of Public Health, Fudan University. I am passionate about improving healthcare access and outcomes, especially in ethnic minority regions of China. My research experience includes chronic disease management and health policy, advised by faculty in the School of Medicine and Health Management. I have also participated in impactful social practice projects aimed at rural healthcare development. Recently, I was honored to receive the **National College English Reading Competition Grand Prize** and publish as the first author in an SCI journal.
 
