@@ -11,18 +11,18 @@ This page is a little snapshot of my creative world, which I’ve been diving in
 ## Crocheting
 
 <div class="third">
-<img src="/images/crocheting1.JPG">
-<img src="/images/crocheting2.JPG">
-<img src="/images/crocheting3.JPG">
+<img src="/images/crocheting1.jpg">
+<img src="/images/crocheting2.jpg">
+<img src="/images/crocheting3.jpg">
 </div>
 <br>There’s something magical about turning a simple strand of yarn into a cozy scarf, a quirky hat, or even a tiny plush toy. Crocheting feels like weaving little stories with every stitch—each loop a moment of calm, each pattern a burst of joy. I adore the rhythm of the hook gliding through the yarn, transforming chaos into order. Recently, I’ve been experimenting with colorful blankets inspired by the vibrant landscapes of my hometown in Sichuan’s Tibetan region.
 
 ## Pixel Bead Art
 
 <div class="third">
-<img src="/images/beadart1.JPG">
-<img src="/images/beadart2.JPG">
-<img src="/images/beadart3.JPG">
+<img src="/images/beadart1.jpg">
+<img src="/images/beadart2.jpg">
+<img src="/images/beadart3.jpg">
 </div>
 <br>Pixel bead art is my tiny universe of color and precision. With every bead I place, it’s like painting with dots—building miniature masterpieces that sparkle under the light. Whether it’s a cute animal, a intricate mandala, or a scene from a favorite memory, I lose myself in the click-clack of beads lining up perfectly. It’s oddly satisfying, like solving a puzzle that ends in a burst of beauty. My latest project? A pixelated portrait of a mountain sunset—tedious, but oh-so-rewarding!
 
@@ -35,6 +35,6 @@ I used to spend hours hiking through the hills near my hometown, sketching lands
 One day, I’d love to have a cozy little craft nook filled with yarn in every shade and beads of every size—a space where I can create, dream, and maybe even teach others the joy of crafting.
 
 <div>
-<img src="/images/craftcorner.JPG">
+<img src="/images/craftcorner.jpg">
 </div>
 <br>
