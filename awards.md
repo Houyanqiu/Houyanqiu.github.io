@@ -6,9 +6,9 @@ title: Awards
 
 > Update: 20th Sep 2024
 
-## ## Scholarships
+## Scholarships
 
-- Oct 2023：**Outstanding Academic Scholarship**<br>Top 4% of undergraduates at Huazhong University of Science and Technology
+- Oct 2023：Outstanding Academic Scholarship<br>Top 4% of undergraduates at Huazhong University of Science and Technology
 - Oct 2023：**Self-Reliance Scholarship**<br>Top 4% of undergraduates at Huazhong University of Science and Technology
 - Oct 2022：**Outstanding Academic Scholarship**<br>Top 4% of undergraduates at Huazhong University of Science and Technology
 - Oct 2022：**Self-Reliance Scholarship**<br>Top 4% of undergraduates at Huazhong University of Science and Technology
